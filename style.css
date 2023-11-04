@@ -1,30 +1,30 @@
 *{
-    margin:0px;
+    margin: 0;
+    padding: 0;
     font-family: 'inter';
 }
 
 #menusuperior{
-    background-color: #303030;
-    width: 1440px;
-    height: 475px;
+    background-image: url(IMG/arquitetura.jpg);
+    padding-left: 50px;
+    padding-top: 25px;
+    padding-bottom: 75px;
 }
 
 #titulomenusuperior{
     margin-left: 75px;
     font-size: 60px;
-    color: white;
+    color: orange;
 }
 
 #textomenusuperior{
     margin-left: 75px;
     font-size: 20px;
-    color: white;
+    color: darkorange;
 }
 
 #menuinformacional{
     background-color: #F9F9F9;
-    width: 1440px;
-    height: 229px;
     display: grid;
     grid-auto-flow: column;
     columns: auto;
@@ -40,8 +40,6 @@
     display: grid;
     grid-auto-flow: column;
     columns: auto;
-    width: 1440px;
-    height: 638px;
 }
 
 #imgcasa{
@@ -56,8 +54,7 @@
 
 #textohistoria{
     color: #303030;
-    font-size: 24px;
-    
+    font-size: 24px; 
 }
 
 .info2{
@@ -67,8 +64,6 @@
 #formulario{
     text-align: center;
     background-color: #303030;
-    width: 1440px;
-    height: 638px;
 }
 
 #tituloformulario{
