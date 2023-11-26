@@ -7,12 +7,12 @@ Tecnologias Usadas: <br>
 • HTML <br>
 • CSS
 
-Link do Site Disponibilizado: https://landing-page-arquitetura-cnd.netlify.app/
+Link do Site Disponibilizado: https://landing-page-arquitetura-cnd.netlify.app/<br>
 Link da Planilha de Registro de Informação: https://docs.google.com/spreadsheets/d/1Bc76jfNmByaQUzTtyW6euKzXuejYQTGT4vBOMP9SaIk/
 
 
 ### Responsividade Desktop:
-<img src="/readme/bootcamp-pc.png" width="480px">
+<img src="/img/responsividade-desktop.png" width="480px">
 
 ### Responsividade Mobile:
-<img src="/readme/bootcamp-mobile.jpg" width="480px">
+<img src="/img/responsividade-mobile.png" width="480px">
