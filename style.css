@@ -4,36 +4,38 @@
     font-family: 'inter';
 }
 
+/* MENU SUPERIOR */
 #menusuperior{
     background-image: url(IMG/arquitetura.jpg);
     padding-left: 50px;
     padding-top: 25px;
-    padding-bottom: 75px;
+    padding-bottom: 60px;
 }
+    #titulomenusuperior{
+        margin-left: 75px;
+        font-size: 50px;
+        color: #303030;
+        padding-top: 250px;
+    }
+    #textomenusuperior{
+        margin-left: 75px;
+        font-size: 20px;
+        color: #303030;
+        padding-top: 26px;
+    }
 
-#titulomenusuperior{
-    margin-left: 75px;
-    font-size: 60px;
-    color: orange;
-}
-
-#textomenusuperior{
-    margin-left: 75px;
-    font-size: 20px;
-    color: darkorange;
-}
-
+/* MENU INFORMACIONAL */
 #menuinformacional{
     background-color: #F9F9F9;
     display: grid;
     grid-auto-flow: column;
     columns: auto;
 }
+    .info{
+        margin: 80px;
+    }
 
-.info{
-    margin: 80px;
-}
-
+/*  SEÇÃO de HISTÓRIA  */
 #secaodehistoria{
     background-color: #fff;
     margin-bottom: 50px;
@@ -41,67 +43,63 @@
     grid-auto-flow: column;
     columns: auto;
 }
-
+    .info2{
+        margin: 35px;
+    }
+        #titulohistoria{
+            color: #303030;
+            font-size: 38px;
+            margin-top: 159px;
+            text-align: center;
+        }
+        #textohistoria{
+            color: #303030;
+            font-size: 24px;
+            text-align: justify;
+            padding-top: 25px;
+        }
 #imgcasa{
-    margin: 50px 25px 50px 100px;
+    margin: 50px 50px 50px 100px;
 }
 
-#titulohistoria{
-    color: #303030;
-    font-size: 40px;
-    margin-top: 159px;
-}
-
-#textohistoria{
-    color: #303030;
-    font-size: 24px; 
-}
-
-.info2{
-    margin: 32px;
-}
-
+/* SEÇÃO de FORMULÁRIO */
 #formulario{
     text-align: center;
     background-color: #303030;
 }
-
-#tituloformulario{
-    font-size: 32px;
-    margin: 25px;
-    color: #fff
-}
-
-input{
-    margin: 15px;
-    margin-left: 25px;
-    font-size: 24px;
-    color: #61656d;
-    width: 508px;
-    height: 72px;
-    border: 0px;
-    border-radius: 10px;
-    background-color: #fff;
-    padding-left: 25px;
-}
-
-button{
-    width: 286px;
-    height: 74px;
-    background-color: #C07212;
-    font-size: 30px;
-    color:#EAECE5;
-    border: 0px;
-    border-radius: 10px;
-    margin-bottom: 50px;
-    font-weight: bolder;
-    cursor: pointer;
-}
-
-button:hover{
-    background-color: #C07212;
-    color: white;
-    transform: translateY(-7px);
-    transition: 1s;
-    box-shadow: 0px 15px 20px #7e5b0f;
-}
+    #tituloformulario{
+        font-size: 40px;
+        margin: 25px;
+        color: #fff
+    }
+        input{
+            margin: 15px;
+            margin-left: 25px;
+            font-size: 24px;
+            color: #61656d;
+            width: 508px;
+            height: 72px;
+            border: 0px;
+            border-radius: 10px;
+            background-color: #fff;
+            padding-left: 25px;
+        }
+            button{
+                width: 286px;
+                height: 74px;
+                background-color: #C07212;
+                font-size: 30px;
+                color:#EAECE5;
+                border: 0px;
+                border-radius: 10px;
+                margin-bottom: 50px;
+                font-weight: bolder;
+                cursor: pointer;
+            }
+            button:hover{
+                background-color: #C07212;
+                color: white;
+                transform: translateY(-7px);
+                transition: 1s;
+                box-shadow: 0px 15px 20px #7e5b0f;
+            }
