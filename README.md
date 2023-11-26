@@ -3,6 +3,7 @@
 Projeto desenvolvido durante o módulo iniciante do curso de Formação em Tecnologia da Escola DNC.
 
 Esté é o projeto de desenvolvimento de uma landing page para uma empresa de arquitetura.
+
 Tecnologias Usadas: <br>
 • HTML <br>
 • CSS
