@@ -20,7 +20,7 @@ Caso tenha dúvidas ou sugestões, entre em contato através de renaldopetlim@gm
 Link: https://landing-page-arquitetura-cnd.netlify.app/
 
 ### Responsividade Desktop:
-<img src="/IMG/responsividade-desktop.png" width="480px">
+<img src="/IMG/responsividade-desktop.png" width="720px">
 
 ### Responsividade Mobile:
 <img src="/IMG/responsividade-mobile.png" width="480px">
