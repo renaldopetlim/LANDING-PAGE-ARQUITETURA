@@ -1,18 +1,23 @@
-# LANDING-PAGE-ARQUITETURA
+# Landing Page - Empresa de Arquitetura
 
-Projeto desenvolvido durante o módulo iniciante do curso de Formação em Tecnologia da Escola DNC.
+## Descrição:
+Este projeto é uma Landing Page fictícia para uma empresa de arquitetura, destacando sua experiência, projetos realizados e oferecendo um formulário de contato para clientes interessados em seus serviços.
 
-Esté é o projeto de desenvolvimento de uma landing page para uma empresa de arquitetura.
+## Funcionalidades:
+• Banner Inicial: Apresenta o nome e a especialização da empresa.<br>
+• Menu Informacional: Exibe métricas relevantes, como número de empreendimentos construídos, anos de experiência e área total projetada.<br>
+• Seção de História: Breve resumo sobre a trajetória da empresa e sua proposta de valor.<br>
+• Formulário de Contato: Permite que os visitantes entrem em contato preenchendo nome e e-mail.
 
-Tecnologias Usadas: <br>
-• HTML <br>
-• CSS
+## Tecnologias Usadas:
+• HTML5: Estruturação da página.<br>
+• CSS3: Estilização e layout responsivo.<br>
+• JavaScript (Opcional): Pode ser utilizado para adicionar interatividade, como animações ou validação de formulário.
 
-Link do Site Disponibilizado: <br>
-https://landing-page-arquitetura-cnd.netlify.app/<br>
-Link da Planilha de Registro de Informação: <br>
-https://docs.google.com/spreadsheets/d/1Bc76jfNmByaQUzTtyW6euKzXuejYQTGT4vBOMP9SaIk/
+## Contato:
+Caso tenha dúvidas ou sugestões, entre em contato através de renaldopetlim@gmail.com.
 
+Link: https://landing-page-arquitetura-cnd.netlify.app/
 
 ### Responsividade Desktop:
 <img src="/IMG/responsividade-desktop.png" width="480px">
