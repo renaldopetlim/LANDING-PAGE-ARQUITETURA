@@ -12,7 +12,6 @@ Este projeto é uma Landing Page fictícia para uma empresa de arquitetura, dest
 ## Tecnologias Usadas:
 • HTML5: Estruturação da página.<br>
 • CSS3: Estilização e layout responsivo.<br>
-• JavaScript (Opcional): Pode ser utilizado para adicionar interatividade, como animações ou validação de formulário.
 
 ## Contato:
 Caso tenha dúvidas ou sugestões, entre em contato através de renaldopetlim@gmail.com.
